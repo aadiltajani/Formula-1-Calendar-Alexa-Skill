@@ -1,0 +1,116 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "my formula one calendar",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "NextGPIntent",
+          "slots": [],
+          "samples": [
+            "next formula one grand prix",
+            "next f one grand prix",
+            "next grand prix race",
+            "next grand prix",
+            "when is the next grand prix",
+            "upcoming gp",
+            "upcoming place",
+            "upcoming race",
+            "next f one race",
+            "next f one",
+            "next formula one",
+            "where is the next formula one race",
+            "next country",
+            "next place",
+            "next track",
+            "which is the next venue",
+            "whats next race",
+            "what is next",
+            "when is next",
+            "where is the next gp",
+            "where is the next race",
+            "when is the next gp",
+            "next gp",
+            "next race",
+            "when is the next race"
+          ]
+        },
+        {
+          "name": "FullCalendarIntent",
+          "slots": [],
+          "samples": [
+            "give me all venues",
+            "give me all circuits",
+            "give me all dates",
+            "all twenty twenty races",
+            "full race schedule",
+            "twenty twenty schedule",
+            "twenty twenty calendar",
+            "what is the twenty twenty calendar",
+            "show me full calendar",
+            "show me all gp",
+            "show me all races",
+            "all grand prix",
+            "all races",
+            "all race",
+            "full calendar",
+            "show me calendar"
+          ]
+        },
+        {
+          "name": "RemainIntent",
+          "slots": [],
+          "samples": [
+            "remaining tracks",
+            "remaining calendar",
+            "remaining gp",
+            "remaining races",
+            "how many to go",
+            "how many races left",
+            "which are the next few races",
+            "which are the next few gp",
+            "which tracks are left",
+            "which countries are left",
+            "which races are left",
+            "which tracks are remaining",
+            "what races are remaining"
+          ]
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": [
+            "yupp",
+            "yepp",
+            "yeah",
+            "yes"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": [
+            "nah",
+            "nope",
+            "no"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "1"
+}
